@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab4Test</string>
+    <string name="welcome">Welcome To My Application</string>
+    <string name="welcomeBtnText">Click Me to Chat</string>
+
+    // Lab4 Strings
+    <string name="sendBtn">SEND</string>
+    <string name="editViewHint">Type Here</string>
+    <string name="receiveBtn">RECEIVE</string>
+</resources>
